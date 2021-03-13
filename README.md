@@ -1,7 +1,7 @@
 # COVID19-predict
 It is a prediction of covid19 infection in Japan.<br>
 Predicted by logistic regression and ARIMA.<br>
-Logistic regression: Some parts such as Tokyo have not been fitted.
+Logistic regression: Some parts such as Tokyo have not been fitted.<br>
 Running on python.The code is dirty:)
 
 |    train   |   predict  |
