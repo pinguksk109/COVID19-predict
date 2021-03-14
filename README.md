@@ -6,7 +6,7 @@ Running on python.The code is dirty:)
 
 |    train   |   predict  |
 |    ----    |    ----    |
-|  11/1~12/7 |  12/8~1/3  |
+|  11/1~12/6 |  12/7~1/3  |
 
 <h3>logistic regression in Shizuoka Japan</h3><br>
   
